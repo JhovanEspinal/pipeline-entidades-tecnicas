@@ -1,0 +1,9 @@
+langchain>=1.4
+langchain-core>=1.7
+langchain-anthropic>=1.7
+langchain-openai>=1.7
+pydantic>=2.14
+python-dotenv>=1.2
+
+pytest>=9.1
+pytest-asyncio>=1.4
